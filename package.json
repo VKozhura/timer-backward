@@ -2,6 +2,7 @@
 	"name": "timer",
 	"source": "src/index.html",
 	"browserslist": "> 0.5%, last 2 versions, not dead",
+	"homepage": "https://vkozhura.github.io/timer-backward",
 	"scripts": {
 		"start": "parcel",
 		"build": "parcel build"
